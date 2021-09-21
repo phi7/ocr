@@ -1,6 +1,6 @@
 # ocr
 
-A new Flutter project.
+画像から日本語の文字を読み取る機能の練習。iOSのみ。
 
 ## Getting Started
 
